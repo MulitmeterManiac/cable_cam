@@ -1,5 +1,5 @@
 # cable_cam
-//repository for files that are required for a simple diy cable cam
+//repository for files that are required for a simple diy cable cam (intern project name: Felix sein Ding)
 //using raspi pico w and dc-motor driver
 
 #file_list
