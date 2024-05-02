@@ -1,5 +1,6 @@
 # cable_cam
 //repository for files that are required for a simple diy cable cam
+//using raspi pico w and dc-motor driver
 
 #file_list
 -> bt2.0_test_code
